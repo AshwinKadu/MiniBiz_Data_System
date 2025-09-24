@@ -62,3 +62,8 @@ CREATE TABLE Employees (
     EMAIL VARCHAR(100),
     HIRE_DATE VARCHAR(20)    
 );
+
+create index cust_id on customers (CUSTOMER_ID,customer_name);
+create index emp_id on employees (emp_id, name);
+create index f_inv on FinishedGoodsInventory (product_id, product_name);
+create index f_inv on raw_mat_inventory (material_id, material_name);
