@@ -19,7 +19,8 @@ It helps manage **inventory, orders, customers, employees, sales, and purchases*
 - [x] **Stage 1 – Database Design**  
   - Define entities (Inventory, Orders, Customers, Employees, etc.)  
   - Create ER Diagram  
-  - Write SQL schema for all tables  
+  - Write SQL schema for all tables
+  - create indexes and set table relationships  
 
 - [x] **Stage 2 – Data Insertion & Sample Records**  
   - Insert test data (customers, orders, products)  
