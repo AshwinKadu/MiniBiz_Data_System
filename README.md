@@ -49,8 +49,7 @@ The system consists of the following core tables:
 - **Employees** – Staff details and roles  
 - **Suppliers & Purchases** – Supplier records and purchase transactions  
 - **Sales** – Records of completed sales  
-
-*(ER Diagram to be added here)*  
+ 
 
 ---
 
