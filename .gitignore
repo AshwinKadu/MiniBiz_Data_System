@@ -4,3 +4,4 @@ requirements.txt
 # Power BI Cache
 .pbi/
 MiniBiz Data System.pbix
+MiniBiz_Dashboard.pdf
