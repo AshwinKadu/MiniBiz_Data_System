@@ -3,3 +3,4 @@ env/
 requirements.txt
 # Power BI Cache
 .pbi/
+MiniBiz Data System.pbix
